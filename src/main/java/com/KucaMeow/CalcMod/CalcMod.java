@@ -1,3 +1,5 @@
+package com.KucaMeow.app;
+
 import java.util.Scanner;
 import java.awt.*;
 import java.awt.event.*;

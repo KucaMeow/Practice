@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="com.KucaMeow.app.AppTest" time="0.003" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\OpenJDK\java-1.8.0-openjdk-1.8.0.181-1.b13.redhat.windows.x86_64\jre\bin"/>
+    <property name="java.vm.version" value="25.181-b13"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\work\Stepan\Practice"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\work\Stepan\Practice"/>
+    <property name="java.runtime.version" value="1.8.0_181-1-redhat-b13"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\OpenJDK\java-1.8.0-openjdk-1.8.0.181-1.b13.redhat.windows.x86_64\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="f:\Users\MIELOF~1.OFF\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="D:\Java\apache-maven-3.5.4\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.library.path" value="C:\Program Files\OpenJDK\java-1.8.0-openjdk-1.8.0.181-1.b13.redhat.windows.x86_64\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;F:\Program Files\ConEmu\ConEmu\Scripts;C:\Program Files\Far Manager\;F:\Program Files\ConEmu;F:\Program Files\ConEmu\ConEmu;C:\Program Files\Adaptec\maxView Storage Manager\pegasus\bin;C:\Program Files\Adaptec\maxView Storage Manager\;C:\Program Files\Adaptec\maxView Storage Manager\ssl\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;d:\Python34\Lib\site-packages\PyQt4;C:\Windows\Microsoft.NET\Framework\v1.1.4322\;d:\Program Files (x86)\Borland\BDS\4.0\Bin;C:\Program Files (x86)\Embarcadero\Studio\19.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\19.0\Bpl;C:\Program Files (x86)\Embarcadero\Studio\19.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\19.0\Bpl\Win64;D:\Python3\Scripts\;D:\Python3\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\Program Files (x86)\Caminova\Document Express DjVu Plug-in\;C:\Program Files (x86)\Support Tools\;C:\Program Files (x86)\Embarcadero\RAD Studio\9.0\bin;C:\Users\Public\Documents\RAD Studio\9.0\Bpl;C:\Program Files (x86)\Embarcadero\RAD Studio\9.0\bin64;C:\Users\Public\Documents\RAD Studio\9.0\Bpl\Win64;C:\WINDOWS;f:\Program Files (x86)\Microsoft VS Code\bin;f:\Users\Mielofon\Documents\Borland Studio Projects\Bpl;c:\Program Files (x86)\Java\jre7\bin;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\OpenVPN\bin;c:\tools;d:\Program Files (x86)\GnuWin32\bin\;C:\Users\Mielofon.OFFICE\AppData\Local\Microsoft\WindowsApps;f:\Program Files (x86)\Microsoft VS Code\bin;D:\Program files\nodejs;d:\src\depot_tools\;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Users\Mielofon.OFFICE\AppData\Roaming\npm;d:\Workspaces\Go\bin\;C:\Users\Mielofon.OFFICE\AppData\Local\hyper\app-2.0.0\resources\bin;C:\Users\Mielofon.OFFICE\AppData\Local\hyper;D:\Java\apache-maven-3.5.4\bin;;."/>
+    <property name="maven.conf" value="D:\Java\apache-maven-3.5.4\bin\../conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="D:\Java\apache-maven-3.5.4\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\Mielofon.OFFICE"/>
+    <property name="user.timezone" value="Europe/Moscow"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="user.name" value="mielofon"/>
+    <property name="java.class.path" value="D:\Java\apache-maven-3.5.4\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\OpenJDK\java-1.8.0-openjdk-1.8.0.181-1.b13.redhat.windows.x86_64\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher package"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="ru"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_181-1-redhat"/>
+    <property name="java.ext.dirs" value="C:\Program Files\OpenJDK\java-1.8.0-openjdk-1.8.0.181-1.b13.redhat.windows.x86_64\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\OpenJDK\java-1.8.0-openjdk-1.8.0.181-1.b13.redhat.windows.x86_64\jre\lib\resources.jar;C:\Program Files\OpenJDK\java-1.8.0-openjdk-1.8.0.181-1.b13.redhat.windows.x86_64\jre\lib\rt.jar;C:\Program Files\OpenJDK\java-1.8.0-openjdk-1.8.0.181-1.b13.redhat.windows.x86_64\jre\lib\sunrsasign.jar;C:\Program Files\OpenJDK\java-1.8.0-openjdk-1.8.0.181-1.b13.redhat.windows.x86_64\jre\lib\jsse.jar;C:\Program Files\OpenJDK\java-1.8.0-openjdk-1.8.0.181-1.b13.redhat.windows.x86_64\jre\lib\jce.jar;C:\Program Files\OpenJDK\java-1.8.0-openjdk-1.8.0.181-1.b13.redhat.windows.x86_64\jre\lib\charsets.jar;C:\Program Files\OpenJDK\java-1.8.0-openjdk-1.8.0.181-1.b13.redhat.windows.x86_64\jre\lib\jfr.jar;C:\Program Files\OpenJDK\java-1.8.0-openjdk-1.8.0.181-1.b13.redhat.windows.x86_64\jre\classes"/>
+    <property name="sun.stderr.encoding" value="cp866"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\Java\apache-maven-3.5.4\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="cp866"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="com.KucaMeow.app.AppTest" name="testApp" time="0.003"/>
+</testsuite>

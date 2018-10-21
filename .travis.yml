@@ -1,0 +1,15 @@
+language: java
+jdk: oraclejdk8
+
+install: true
+script: mvn clean install
+
+deploy:
+  -
+    on:
+      branch: release
+    provider: bintray
+    skip_cleanup: true
+    file: target/bin/bintray.json
+    user: real-mielofon
+    key: $BINTRAY_API_KEY
